@@ -3,7 +3,6 @@ def unsafe?(speed)
     puts "Unsafe!"
   else speed == 50
     puts "Safe"
-
 end
 
 
